@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redgreen/static/css/main.97ec45bb.css",
+    "main.js": "/redgreen/static/js/main.8201d7cb.js",
+    "index.html": "/redgreen/index.html",
+    "main.97ec45bb.css.map": "/redgreen/static/css/main.97ec45bb.css.map",
+    "main.8201d7cb.js.map": "/redgreen/static/js/main.8201d7cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97ec45bb.css",
+    "static/js/main.8201d7cb.js"
+  ]
+}
